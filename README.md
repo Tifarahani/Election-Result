@@ -1,5 +1,5 @@
 ## Module-3-Challenge_Election-Result
-#1.Election Overview
+# 1.Election Overview
 
 
 1.
@@ -18,5 +18,5 @@
 
 - There were x votes cast in the election
 
-__The Candidate result were:
+__ The Candidate result were:
 

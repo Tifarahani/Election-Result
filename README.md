@@ -18,5 +18,5 @@
 
 - There were x votes cast in the election
 
-__ The Candidate result were:
+__The Candidate result were:
 

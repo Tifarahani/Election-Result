@@ -18,5 +18,6 @@
 
 - There were x votes cast in the election
 
+* 
 * * The Candidate result were:
 

@@ -16,7 +16,7 @@
 *
 *
 
-_ There were x votes cast in the election
-_ 
-The Candidate result were:
+- There were x votes cast in the election
+
+- The Candidate result were:
 

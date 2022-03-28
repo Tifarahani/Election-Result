@@ -49,9 +49,7 @@ The Analysis of the election shows that:
 ![Text_file](https://github.com/Tifarahani/Election-Result/blob/main/Resources/Text_file.png)
 
 ## Challenge Summary
-- There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. 
-
-This programm is written to analyze the election_results.csv file by going through each row and reading the data in the second and third columns, 'County' and 'Candidate', in order to calculate and print the results. There are many different ways in which this code can be changed and used with any election results.
+- This programm is written to analyze the election_results.csv file by going through each row and reading the data in the second and third columns, 'County' and 'Candidate', in order to calculate and print the results. There are many different ways in which this code can be changed and used with any election results.
 
 1) Determining which additional columns to read data from in order to calculate and print more results. This is useful for files containing more information, such as the type of ballot or the date that the vote was cast.no matter the number of candidates or counties, the script used to perform the Election Audit can be a valuable resourse for the board.Similarly, if this were a federal election, we could use the same script and change the county to states.
 

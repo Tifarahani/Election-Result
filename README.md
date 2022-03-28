@@ -15,22 +15,29 @@
 * Data Source: Election_result.csv
 * Software: Python, Visuka Studio Code
 ## Summary
-* There were x votes cast in the election
+* There were 369,711 votes cast in the election
 The Analysis of the election shows that:
 * Candididates were:
- * Candidate 1
- * Candidate 2
- * Candidate 3
-
+ * Charles Casper Stockham
+ * Diana DeGette
+ * Raymon Anthony Doane: 3.1% (11,606)
+* County Votes were:
+  * Jefferson: 10.5% (38,855)
+  * Denver: 82.8% (306,055)
+  * Arapahoe: 6.7% (24,801)
+-------------------------
+Largest County Turnout: Denver
+Winning Count Vote: 306,055
+Winning Count Percentage: 82.8%
 
 
 * The Candidate result were:
-  * Candidate 1 recieved "x% of the votes and "y" number of votes.
-  * Candidate 2 recieved "x% of the votes and "y" number of votes.
-  * Candidate 3 recieved "x% of the votes and "y" number of votes.
+  * Charles Casper Stockham: recieved "23.0%" of the votes and "85,213" number of votes.
+  * Diana DeGette recieved "73.8% " of the votes and "272,892" number of votes.
+  * Raymon Anthony Doane recieved "3.1%" of the votes and "11,606" number of votes.
 
 *  The winner of the election was:
-  * Candidate x, who recieved x% of the votes and y number of the votes
+  * Candidate "Diana DeGette", who recieved "73.8%" of the votes and "272,892" number of the votes
 ## Challenge Overview
 ## Challenge Summary
 

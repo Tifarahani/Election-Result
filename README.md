@@ -2,14 +2,14 @@
 # 1.Project Overview
 
 
-**1)
+**1)**
 
-**2)
+**2)**
 
-**3)
+**3)**
 
-**4)
-**5)
+**4)**
+**5)**
 
 ## Resources:
 * Data Source: Election_result.csv

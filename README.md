@@ -23,7 +23,7 @@ The Analysis of the election shows that:
  * Charles Casper Stockham
  * Diana DeGette
  * Raymon Anthony Doane: 3.1% (11,606)
- * 
+ 
 * County Votes were:
   * Jefferson: 10.5% (38,855)
   * Denver: 82.8% (306,055)

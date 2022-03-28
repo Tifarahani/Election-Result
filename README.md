@@ -14,7 +14,7 @@
 
 ## Resources:
 * Data Source: Election_result.csv
-* Software: Python, Visuka Studio Code
+* Software: Python, Visual Studio Code
 
 ## Summary
 * There were 369,711 votes cast in the election

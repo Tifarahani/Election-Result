@@ -1,13 +1,12 @@
 ## Election_Analysis
 # 1.Overview of Election Audit
 A Colorado Board of Elections employee has given you the following task to complete the election audit of a recent local congressional election.
-
-
+We have to write a code to analyse each county votes, each candidate votes and their percentage and at the end demonstrate the winner of the election, winnner percentage of votes and total number of the votes.
 
 ## Resources:
 * Data Source: Election_result.csv
 * Software: Python: 3.9.7
-* Visual Studio Code
+* Visual Studio Code 1.65.2
 
 ## Summary
 * There were 369,711 votes cast in the election

@@ -44,6 +44,6 @@ Winning Count Percentage: 82.8%
 ## Challenge Overview
 
 ## Challenge Summary
-![Text_file](https://myoctocat.com/assets/images/base-octocat.svg)
+![Text_file](https://github.com/Tifarahani/Election-Result/tree/main/Resources)
 
   

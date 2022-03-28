@@ -44,6 +44,6 @@ Winning Count Percentage: 82.8%
 ## Challenge Overview
 
 ## Challenge Summary
-![Text_file](https://github.com/Tifarahani/Election-Result/tree/main/Resources/Text_file.png)
+![Text_file](https://github.com/Tifarahani/Election-Result/blob/main/Resources/Text_file.png)
 
   

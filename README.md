@@ -45,7 +45,9 @@ The Analysis of the election shows that:
 **4)** Calculate the percentage of votes each candidate won.
 
 **5)** Determine the winner of the election based on popular vote.
-
+![Code_1](https://github.com/Tifarahani/Election-Result/blob/main/Resources/Code_1.png)
+![Code_2](https://github.com/Tifarahani/Election-Result/blob/main/Resources/Code_2.png)
+![Code_3](https://github.com/Tifarahani/Election-Result/blob/main/Resources/Code_3.png)
 ![Text_file](https://github.com/Tifarahani/Election-Result/blob/main/Resources/Text_file.png)
 
 ## Challenge Summary

@@ -2,15 +2,7 @@
 # 1.Project Overview
 
 
-**1)** Calculate the total number of votes cast
 
-**2)** Get a complete list of candidate who recieved votes.
-
-**3)** Calculate the total number of votes each candidate recieved.
-
-**4)** Calculate the percentage of votes each candidate won.
-
-**5)** Determine the winner of the election based on popular vote.
 
 ## Resources:
 * Data Source: Election_result.csv
@@ -42,6 +34,15 @@ Winning Count Percentage: 82.8%
 *  The winner of the election was:
    * Candidate "Diana DeGette", who recieved "73.8%" of the votes and "272,892" number of the votes
 ## Challenge Overview
+**1)** Calculate the total number of votes cast
+
+**2)** Get a complete list of candidate who recieved votes.
+
+**3)** Calculate the total number of votes each candidate recieved.
+
+**4)** Calculate the percentage of votes each candidate won.
+
+**5)** Determine the winner of the election based on popular vote.
 
 ## Challenge Summary
 ![Text_file](https://github.com/Tifarahani/Election-Result/blob/main/Resources/Text_file.png)

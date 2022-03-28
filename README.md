@@ -42,6 +42,8 @@ Winning Count Percentage: 82.8%
 *  The winner of the election was:
    * Candidate "Diana DeGette", who recieved "73.8%" of the votes and "272,892" number of the votes
 ## Challenge Overview
+
 ## Challenge Summary
+![Text_file](https://myoctocat.com/assets/images/base-octocat.svg)
 
   
